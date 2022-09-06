@@ -8,7 +8,7 @@
 - 단위 테스트를 용이하게 함
 
 (MVC 패턴에서 View와 Model의 의존성을 없애고 단위 테스트가 어려웠던 문제점을 해결하기 위해 등장하게 된 패턴이라고 할 수 있다.)
-
+![img1 daumcdn](https://user-images.githubusercontent.com/88268418/188580872-1818963b-c512-476b-82ad-f96686bcd5d1.png)
 ![post-thumbnail](https://velog.velcdn.com/images/bang/post/bc4ddaaa-64e7-4052-a657-beb97d05b556/mvp.png)
 
 #### Model
