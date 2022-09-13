@@ -8,7 +8,7 @@ MVC란?
 
 ![img](https://blog.kakaocdn.net/dn/bDpdks/btrjV9EuRJ3/egwkkBELr5i0oYOv4t9Qy1/img.png)
 
-1. 사용자가 Controller를 조작하면 Controller는 Model을 통해 데이터를 가져옴
+1. 사용자가 Controller를 조작하면 Controller는 Model을 통해 데이터를 가져옴.
 
 2. 그 데이터를 바탕으로 View를 통해 시각적 표현을 제어
 3. 사용자에게 전달
